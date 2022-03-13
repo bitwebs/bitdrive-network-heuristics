@@ -1,25 +1,25 @@
 {
-  "name": "hyperdrive-network-heuristics",
-  "version": "1.0.2",
-  "description": "Networking heuristics for announcing Hyperdrives on Hyperswarm.",
+  "name": "@web4/bitdrive-network-heuristics",
+  "version": "1.0.0",
+  "description": "Networking heuristics for announcing Bitdrives on Bitswarm.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andrewosh/hyperdrive-network-heuristics.git"
+    "url": "git+https://github.com/bitwebs/bitdrive-network-heuristics.git"
   },
   "keywords": [
-    "hyperdrive",
+    "bitdrive",
     "networking",
-    "corestore",
+    "chainstore",
     "heuristics"
   ],
   "author": "Andrew Osheroff <andrewosh@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/andrewosh/hyperdrive-network-heuristics/issues"
+    "url": "https://github.com/bitwebs/bitdrive-network-heuristics/issues"
   },
-  "homepage": "https://github.com/andrewosh/hyperdrive-network-heuristics#readme"
+  "homepage": "https://github.com/bitwebs/bitdrive-network-heuristics#readme"
 }
